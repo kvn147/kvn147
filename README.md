@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently in school for CS and a side project I'm working on is a solar tracker with Arduino
+🌱 I’m currently learning Java, and hopefully SQL and Python in the summer
+
+
 
 <!--
 **kvn147/kvn147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
