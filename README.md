@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently in school for CS and a side project I'm working on is a solar tracker with Arduino
-🌱 I’m currently learning Java, and hopefully SQL and Python in the summer
+🔭 I’m a second year majoring in CS
+🌱 I’m currently learning Java, and hopefully learn SQL and Python in the summer
 
 
 
