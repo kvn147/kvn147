@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m a second year majoring in CS
-🌱 I’m currently learning Java, and hopefully learn SQL and Python in the summer
+🔭 I’m a third year majoring Computer Science @ UW. I'm currently taking CSE 311 and CSE 351.
+🌱 I’m currently learning SQL.
 
 
 
