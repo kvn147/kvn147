@@ -1,6 +1,5 @@
 ### Hi there 👋
-🔭 I’m a third year majoring Computer Science @ UW. I'm currently taking CSE 311 and CSE 351.
-🌱 I’m currently learning SQL.
+🔭 I’m a third year majoring Computer Science @ UW.
 
 
 
