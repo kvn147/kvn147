@@ -6,8 +6,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=kvn147&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kvn147&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=kvn147&icon=0&color=0)](https://visitcount.itsvg.in)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin1nguyen) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
